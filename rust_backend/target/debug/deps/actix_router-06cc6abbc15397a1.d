@@ -1,0 +1,12 @@
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/actix_router-06cc6abbc15397a1.rmeta: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/libactix_router-06cc6abbc15397a1.rlib: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/actix_router-06cc6abbc15397a1.d: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs:

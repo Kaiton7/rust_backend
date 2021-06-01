@@ -1,0 +1,7 @@
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/foreign_types_shared-37564bfa05ae0fab.rmeta: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/foreign-types-shared-0.1.1/src/lib.rs
+
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/libforeign_types_shared-37564bfa05ae0fab.rlib: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/foreign-types-shared-0.1.1/src/lib.rs
+
+/home/kaito/Project/rust_backend/rust_backend/target/debug/deps/foreign_types_shared-37564bfa05ae0fab.d: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/foreign-types-shared-0.1.1/src/lib.rs
+
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/foreign-types-shared-0.1.1/src/lib.rs:

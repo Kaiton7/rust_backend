@@ -1,0 +1,11 @@
+/home/kaito/Project/rust_backend/rust_backend/target/rls/debug/deps/futures_task-c59db5f79009613a.rmeta: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs
+
+/home/kaito/Project/rust_backend/rust_backend/target/rls/debug/deps/futures_task-c59db5f79009613a.d: /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs /home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs
+
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs:
+/home/kaito/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs:
